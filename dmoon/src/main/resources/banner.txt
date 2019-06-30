@@ -1,0 +1,7 @@
+Spring Boot Study!
+application version: ${application.version}
+application formatted version: ${application.formatted-version}
+spring-boot.version: ${spring-boot.version}
+spring-boot.formatted.version: ${spring-boot.formatted-version}
+ansi.NAME: ${AnsiBackground.BLACK}
+application.title: ${application.title}
